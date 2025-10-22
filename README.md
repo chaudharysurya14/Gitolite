@@ -1,4 +1,4 @@
-# Gitolite Server Setup
+# Gitolite
 
 ## 📘 Overview
 **Gitolite** is a server-side tool for managing Git repositories over SSH. It enables fine-grained access control, allowing administrators to define who can read, write, or manage each repository — all through SSH key authentication. Gitolite is lightweight, secure, and ideal for managing multiple users and projects on a single server.
